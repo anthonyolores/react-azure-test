@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anthonyolores/react-azure-test.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/anthonyolores/react-azure-test.git/static/js/main.8a781546.chunk.js",
+    "main.js.map": "/anthonyolores/react-azure-test.git/static/js/main.8a781546.chunk.js.map",
+    "runtime-main.js": "/anthonyolores/react-azure-test.git/static/js/runtime-main.e983db62.js",
+    "runtime-main.js.map": "/anthonyolores/react-azure-test.git/static/js/runtime-main.e983db62.js.map",
+    "static/js/2.08c03570.chunk.js": "/anthonyolores/react-azure-test.git/static/js/2.08c03570.chunk.js",
+    "static/js/2.08c03570.chunk.js.map": "/anthonyolores/react-azure-test.git/static/js/2.08c03570.chunk.js.map",
+    "static/js/3.8d80cc6a.chunk.js": "/anthonyolores/react-azure-test.git/static/js/3.8d80cc6a.chunk.js",
+    "static/js/3.8d80cc6a.chunk.js.map": "/anthonyolores/react-azure-test.git/static/js/3.8d80cc6a.chunk.js.map",
+    "index.html": "/anthonyolores/react-azure-test.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/anthonyolores/react-azure-test.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.08c03570.chunk.js.LICENSE.txt": "/anthonyolores/react-azure-test.git/static/js/2.08c03570.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anthonyolores/react-azure-test.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e983db62.js",
+    "static/js/2.08c03570.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8a781546.chunk.js"
+  ]
+}
